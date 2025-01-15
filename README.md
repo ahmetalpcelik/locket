@@ -1,6 +1,7 @@
 # locket
 A lightweight image viewer built with Python and Tkinter, offering basic functionality in a minimal, borderless interface. I did this program to see my love while I'm working. 
 
+I will not update it anymore cuz she left me like I'm a piece of trash.
 
 #### Features:
 - **Borderless Design**: The application removes the default window decorations for a cleaner look.
